@@ -1,0 +1,2 @@
+# MiniSQL
+DBMS Class Project
